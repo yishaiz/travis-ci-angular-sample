@@ -22,5 +22,5 @@ branches:
 before_script:
   - npm install -g @angular/cli
 
-  script:
-    - ng lint
+script:
+  - ng lint
